@@ -1,0 +1,5 @@
+/packages/
+.vs/
+obj/
+bin/
+QRMenuManagement.csproj.user
