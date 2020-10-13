@@ -1,4 +1,5 @@
 import React from 'react';
+import { Fetch } from 'react-request';
 import logo from './logo.svg';
 import { Counter } from './features/counter/Counter';
 import './App.css';
